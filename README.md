@@ -6,10 +6,10 @@
 
 #About me
 ##My Interests
-*Football
-*Baseball
-*Aviation
-*Star Wars
+* Football
+* Baseball
+* Aviation
+* Star Wars
 ##Websites I recommend
 *[YouTube](www.youtube.com)
   I love watching cooking recipe videos.
