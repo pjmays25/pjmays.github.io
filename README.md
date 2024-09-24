@@ -11,7 +11,7 @@
 * Aviation
 * Star Wars
 ## Websites I recommend
-*[YouTube](www.youtube.com)
+* [YouTube](www.youtube.com)
   I love watching cooking recipe videos.
-*[Reddit](www.reddit.com)
+* [Reddit](www.reddit.com)
   A good way to kill time!
