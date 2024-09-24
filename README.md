@@ -4,13 +4,13 @@
 3. I created a repository for my CTI-110 class that we will upload files to.
 4. After I installed the GitHub application and I opened it. After opening, my file was right there at the main menu. I selected it and clicked clone repository.
 
-#About me
-##My Interests
+# About me
+## My Interests
 * Football
 * Baseball
 * Aviation
 * Star Wars
-##Websites I recommend
+## Websites I recommend
 *[YouTube](www.youtube.com)
   I love watching cooking recipe videos.
 *[Reddit](www.reddit.com)
